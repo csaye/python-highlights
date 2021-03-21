@@ -10,6 +10,10 @@ Highlights from my personal python projects.
 - ColorPalette: generates an image with varying shades of a random color
 - ColorRandom: generates an image where every pixel is a random color
 
+## eval
+- Postfix: evaluates the given [postfix expression](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+- Prefix: evaluates the given [prefix expression](https://en.wikipedia.org/wiki/Polish_notation)
+
 ## [pygame](https://en.wikipedia.org/wiki/Pygame)
 - Snake: a playable game of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 - Conway: an interactive version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
