@@ -1,5 +1,5 @@
 # python-highlights
-Highlights from my personal python projects.
+Highlights from my personal Python projects.
 
 ## brainfuck
 - BFCompiler: a complete compiler for the [Brainfuck language](https://en.wikipedia.org/wiki/Brainfuck)
@@ -21,11 +21,12 @@ Highlights from my personal python projects.
 - Prefix: evaluates the given [prefix expression](https://en.wikipedia.org/wiki/Polish_notation)
 
 ## [pygame](https://en.wikipedia.org/wiki/Pygame)
-- Snake: a playable game of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 - Conway: an interactive version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- FlappyBird: a playable game of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)
 - LangtonsAnt: a visualization of [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
-- Rule110: a visualization of the [Rule 110 Cellular Automaton](https://en.wikipedia.org/wiki/Rule_110)
 - Pong: a playable game of [Pong](https://en.wikipedia.org/wiki/Pong)
+- Rule110: a visualization of the [Rule 110 Cellular Automaton](https://en.wikipedia.org/wiki/Rule_110)
+- Snake: a playable game of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
 - TileSlide: randomly generates [tile sliding puzzles](https://en.wikipedia.org/wiki/Sliding_puzzle)
 
 ## [quines](https://en.wikipedia.org/wiki/Quine_(computing))
