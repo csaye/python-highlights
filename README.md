@@ -24,6 +24,7 @@ Highlights from my personal Python projects.
 - Conway: an interactive version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - FlappyBird: a playable game of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)
 - LangtonsAnt: a visualization of [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
+- Minesweeper: a playable game of [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
 - Pong: a playable game of [Pong](https://en.wikipedia.org/wiki/Pong)
 - Rule110: a visualization of the [Rule 110 Cellular Automaton](https://en.wikipedia.org/wiki/Rule_110)
 - Snake: a playable game of [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
