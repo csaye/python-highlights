@@ -21,6 +21,7 @@ Highlights from my personal Python projects.
 - Prefix: evaluates the given [prefix expression](https://en.wikipedia.org/wiki/Polish_notation)
 
 ## [pygame](https://en.wikipedia.org/wiki/Pygame)
+- 2048: a playable game of [2048](https://en.wikipedia.org/wiki/2048_(video_game))
 - Conway: an interactive version of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - FlappyBird: a playable game of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)
 - LangtonsAnt: a visualization of [Langton's Ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
